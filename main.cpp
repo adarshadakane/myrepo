@@ -1,4 +1,8 @@
-#include<iostrem>
+#include<iostream>
+
+void quicksort(){
+    // 
+}
 
 int main()
 {
