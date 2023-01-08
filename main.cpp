@@ -12,7 +12,10 @@ void quicksort(){
 void mergesort(){
     // 
 }
+void insertionsort(){
 
+    // 
+}
 
 int main()
 {
